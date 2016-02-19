@@ -1,9 +1,11 @@
-# markdown-html [![NPM version](https://badge.fury.io/js/markdown-html.svg)](http://badge.fury.io/js/markdown-html) [![Build Status](https://travis-ci.org/fragphace/markdown-html.svg)](https://travis-ci.org/fragphace/markdown-html)
+# markdown-html
+[![NPM version](https://badge.fury.io/js/markdown-html.svg)](http://badge.fury.io/js/markdown-html)
+[![Build Status](https://travis-ci.org/group-hub/markdown-html.svg?branch=master)](https://travis-ci.org/group-hub/markdown-html)
 
 ## Information
 
 <table>
-<tr> 
+<tr>
 <td>Package</td><td>markdown-html</td>
 </tr>
 <tr>
@@ -18,8 +20,8 @@
 
 ## Usage
 
-Basic usage: 
-    
+Basic usage:
+
     markdown-html in.md -o out.html
 
 
