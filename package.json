@@ -1,12 +1,12 @@
 {
-  "author": "Pawel Maciejewski <fragphace@gmail.com> (http://fragphace.pl)",
-  "name": "markdown-html",
-  "description": "Command line tool for markdown to html conversion.",
+  "author": "Group Hub <hello@grouphub.org> (https://www.grouphub.org)",
+  "name": "markdown-to-html",
+  "description": "Command line tool for markdown to html conversion. This is based on version by pwlmaciejewski.",
   "version": "0.0.8",
-  "homepage": "https://github.com/fragphace/markdown-html",
+  "homepage": "https://github.com/group-hub/markdown-html",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fragphace/markdown-html.git"
+    "url": "git://github.com/group-hub/markdown-html.git"
   },
   "dependencies": {
     "marked": "^0.3.2",
