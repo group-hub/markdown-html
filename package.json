@@ -1,5 +1,5 @@
 {
-  "author": "Group Hub <hello@grouphub.org> (https://www.grouphub.org)",
+  "author": "John Wheal <john@grouphub.org> (https://www.grouphub.org)",
   "name": "markdown-to-html",
   "description": "Command line tool for markdown to html conversion. This is based on version by pwlmaciejewski.",
   "version": "0.0.8",
