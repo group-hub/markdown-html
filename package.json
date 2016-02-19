@@ -1,8 +1,8 @@
 {
   "author": "John Wheal <john@grouphub.org> (https://www.grouphub.org)",
-  "name": "markdown-to-html",
+  "name": "gh-markdown-to-html",
   "description": "Command line tool for markdown to html conversion. This is based on version by pwlmaciejewski.",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "homepage": "https://github.com/group-hub/markdown-html",
   "repository": {
     "type": "git",
